@@ -1,0 +1,5 @@
+/*__init__.py
+../env/*
+*.sqlite3
+*.pyc
+*/__pycache__
